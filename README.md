@@ -9,8 +9,8 @@ now the colors should work in the bash scripts
 
 ## \# run scripts
 There are 2 quite simple ways to run bash scripts:
-- either `bash 'script'`
-- or `chmod +x 'script'` than `./'script'`
+- either `bash exampleScript.sh`
+- or `chmod +x exampleScript.sh` than `./exampleScript.sh`
 
 ## \# scripts
 All scripts I have made and uploaded:
