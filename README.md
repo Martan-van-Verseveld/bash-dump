@@ -11,3 +11,7 @@ now the colors should work in the bash scripts
 There are 2 quite simple ways to run bash scripts:
 - either `bash 'script'`
 - or `chmod +x 'script'` than `./'script'`
+
+## \# scripts
+A list of all scripts I have made and uploaded:
+- pingScript (Basicly useless, it asks you for the domain/ip to ping > the amount of times you want to ping it)
