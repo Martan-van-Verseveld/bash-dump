@@ -14,6 +14,6 @@ There are 2 quite simple ways to run bash scripts:
 
 ## \# scripts
 All scripts I have made and uploaded:
-- pingScript.sh (Basically useless if you can clone a git repository... But all is does is that it asks for the domain/ip to ping > and how many time you want to ping it)
+- pingScript.sh (Basically useless if you can clone a git repository... But all is does is that it asks for the domain/ip to ping > and how many times you want to ping it)
 
 <!-- Nothing here -->
